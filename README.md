@@ -4,6 +4,16 @@
 
 🌐 Live: 🔗 https://mini-linkedin-like-community-platform-1.onrender.com
 
+👤 Admin / Demo User Logins
+
+Note: For demo purposes, you can register with any email and password.
+
+✅ Example:
+
+Email: karthik@gmail.com
+
+Password: Karthik25$
+
 A full-stack social web application inspired by LinkedIn, allowing users to register, log in, create public posts, and view content from the community in real-time. This platform was built as a showcase of modern web development techniques, including React, Node.js, Express, MongoDB, and JWT-based authentication.
 
 🌟 Overview
@@ -139,16 +149,6 @@ npm start
 
 Frontend will run on: http://localhost:3000 (or as set in vite.config.js)
 
-
-👤 Admin / Demo User Logins
-
-Note: For demo purposes, you can register with any email and password.
-
-✅ Example:
-
-Email: karthik@gmail.com
-
-Password: Karthik25$
 
 ✨ Extra Features
 - Profile picture upload (Cloudinary + Multer)
