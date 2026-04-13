@@ -1,6 +1,4 @@
-                                           💼 Mini LinkedIn-like Community Platform
-
-> **Disclaimer:** This project is built for educational purposes only and is not affiliated with or endorsed by LinkedIn.
+# 💼 Professional Networking Platform
 
 🌐 Live: 🔗 https://mini-linkedin-like-community-platform-1.onrender.com
 
@@ -14,7 +12,7 @@ Email: karthik@gmail.com
 
 Password: Karthik25$
 
-A full-stack social web application inspired by LinkedIn, allowing users to register, log in, create public posts, and view content from the community in real-time. This platform was built as a showcase of modern web development techniques, including React, Node.js, Express, MongoDB, and JWT-based authentication.
+> **A full-stack social web application inspired by LinkedIn, allowing users to register, log in, create public posts, and view content from the community in real-time. This platform was built as a showcase of modern web development techniques, including React, Node.js, Express, MongoDB, and JWT-based authentication.**
 
 🌟 Overview
 
