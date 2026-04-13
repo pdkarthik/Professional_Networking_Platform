@@ -121,9 +121,9 @@ dotenv – For environment variable management
 
 ### 1. Clone the Repository
 
-git clone https://github.com/pdkarthik/Mini-LinkedIn-like-Community-Platform
+git clone https://github.com/pdkarthik/Professional_Networking_Platform.git
 
-cd Mini LinkedIn-like Community Platform
+cd Professional_Networking_Platform
 
 2. Backend Setup
 
